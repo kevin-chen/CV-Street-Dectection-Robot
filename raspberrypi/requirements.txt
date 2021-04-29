@@ -1,1 +1,2 @@
-cv2-python==latest
+numpy==1.18.5
+opencv-python==4.4.0.42
